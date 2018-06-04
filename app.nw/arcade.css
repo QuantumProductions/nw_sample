@@ -1,0 +1,12 @@
+#arcade {
+  display: grid;
+  grid-template-rows: 10% 80% 10%
+}
+
+#arcade_header {
+  background-color: #999999;
+}
+
+#arcade_footer {
+  background: #333333;
+}
